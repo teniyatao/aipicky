@@ -1,0 +1,6 @@
+# 克隆项目到本地
+git clone git@github.com:oucystong/oucystong.github.io.git
+# 切换到项目目录中
+cd oucystong.github.io/
+# 查看所有的项目的所有文件
+ls -alh
